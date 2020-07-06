@@ -1,2 +1,0 @@
-# zesty-challenge
-zesty-challenge

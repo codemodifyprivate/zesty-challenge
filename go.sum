@@ -1,0 +1,14 @@
+github.com/codemodify/systemkit-appserver v1.7.9 h1:yrOyGbrfP3otwJqR800QngXnGxrNnLwoALVvTi4FYmk=
+github.com/codemodify/systemkit-appserver v1.7.9/go.mod h1:VJBVIgxMncYBJYSC9GAK5heqEPxA/vFQRT4yeAND87k=
+github.com/codemodify/systemkit-appserver-http v1.8.1 h1:kCZAJrHxVLReCg9cWeVT0GiWLDR/bdGJUdeghLLwzk8=
+github.com/codemodify/systemkit-appserver-http v1.8.1/go.mod h1:OMsZOi106WuYOxLnqutvmobBBuxSFUZWhowb51xaJLw=
+github.com/codemodify/systemkit-crashproof v1.0.3 h1:5rcytPx14d7kS9YfIGvonWGoXx9AXMPGYRZSd67q7HE=
+github.com/codemodify/systemkit-crashproof v1.0.3/go.mod h1:uFNTj9chpoLPoeAX3ADIBStJ+MopEQER7u4+QDB5rRY=
+github.com/codemodify/systemkit-helpers-reflection v1.7.9 h1:vPsYvbOiEZHT+rpoXlRx14IvzsKEAkYy7Aw2QEjF/G0=
+github.com/codemodify/systemkit-helpers-reflection v1.7.9/go.mod h1:HunZSrygIcl5IBmnWAYoDoqvFRVu7GIUvC0/scCfPzY=
+github.com/codemodify/systemkit-logging v1.8.4 h1:nkbj0VpnRnpI4PE4w9HNUv/ySO3A/1Y9LVeT9j+ZvGM=
+github.com/codemodify/systemkit-logging v1.8.4/go.mod h1:29Zc9P/MnY2bgenJU9aoDszUef+Xf40b3ajtusTBC1Q=
+github.com/gorilla/mux v1.7.4 h1:VuZ8uybHlWmqV03+zRzdwKL4tUnIp1MAQtp1mIFE1bc=
+github.com/gorilla/mux v1.7.4/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/rs/cors v1.7.0 h1:+88SsELBHx5r+hZ8TCkggzSstaWNbDvThkVK8H6f9ik=
+github.com/rs/cors v1.7.0/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
